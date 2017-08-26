@@ -1,0 +1,77 @@
+obs_id,train_id,awake,name,genus,vore,order,bodywt_log
+id_000001,train,11.9,Cheetah,Acinonyx,carni,Carnivora,3.912023005428146
+id_000002,train,7,Owl monkey,Aotus,omni,Primates,-0.7339691750802004
+id_000003,train,9.6,Mountain beaver,Aplodontia,herbi,Rodentia,0.30010459245033816
+id_000004,test,NA,Greater short-tailed shrew,Blarina,omni,Soricomorpha,-3.9633162998156966
+id_000005,train,20,Cow,Bos,herbi,Artiodactyla,6.396929655216146
+id_000006,test,NA,Three-toed sloth,Bradypus,herbi,Pilosa,1.3480731482996928
+id_000007,test,NA,Northern fur seal,Callorhinus,carni,Carnivora,3.0199369622508083
+id_000008,train,13.9,Dog,Canis,carni,Carnivora,2.6390573296152584
+id_000009,test,NA,Roe deer,Capreolus,herbi,Artiodactyla,2.6946271807700692
+id_000010,train,18.7,Goat,Capri,herbi,Artiodactyla,3.5115454388310208
+id_000011,train,14.6,Guinea pig,Cavis,herbi,Rodentia,-0.3174542307854511
+id_000012,train,14,Grivet,Cercopithecus,omni,Primates,1.55814461804655
+id_000013,train,11.5,Chinchilla,Chinchilla,herbi,Rodentia,-0.8675005677047231
+id_000014,train,13.7,Star-nosed mole,Condylura,omni,Soricomorpha,-2.8134107167600364
+id_000015,train,15.7,African giant pouched rat,Cricetomys,omni,Rodentia,0
+id_000016,train,14.9,Lesser short-tailed shrew,Cryptotis,omni,Soricomorpha,-5.298317366548036
+id_000017,test,NA,Long-nosed armadillo,Dasypus,carni,Cingulata,1.252762968495368
+id_000018,train,18.7,Tree hyrax,Dendrohyrax,herbi,Hyracoidea,1.0818051703517284
+id_000019,train,6,North American Opossum,Didelphis,omni,Didelphimorphia,0.5306282510621704
+id_000020,train,20.1,Asian elephant,Elephas,herbi,Proboscidea,7.842671474979457
+id_000021,train,4.3,Big brown bat,Eptesicus,insecti,Chiroptera,-3.7722610630529876
+id_000022,test,NA,Horse,Equus,herbi,Perissodactyla,6.255750041753367
+id_000023,train,20.9,Donkey,Equus,herbi,Perissodactyla,5.231108616854587
+id_000024,train,13.9,European hedgehog,Erinaceus,omni,Erinaceomorpha,-0.2613647641344075
+id_000025,test,NA,Patas monkey,Erythrocebus,omni,Primates,2.302585092994046
+id_000026,train,9.1,Western american chipmunk,Eutamias,herbi,Rodentia,-2.645075401940822
+id_000027,train,11.5,Domestic cat,Felis,carni,Carnivora,1.1939224684724346
+id_000028,train,14.2,Galago,Galago,omni,Primates,-1.6094379124341003
+id_000029,train,22.1,Giraffe,Giraffa,herbi,Artiodactyla,6.802389207753323
+id_000030,train,21.35,Pilot whale,Globicephalus,carni,Cetacea,6.684611727667927
+id_000031,train,17.8,Gray seal,Haliochoerus,carni,Carnivora,4.442651256490317
+id_000032,train,17.7,Gray hyrax,Heterohyrax,herbi,Hyracoidea,0.965080896043587
+id_000033,train,16,Human,Homo,omni,Primates,4.127134385045092
+id_000034,train,14.5,Mongoose lemur,Lemur,herbi,Primates,0.5128236264286637
+id_000035,train,20.7,African elephant,Loxodonta,herbi,Proboscidea,8.802973456578423
+id_000036,test,NA,Thick-tailed opposum,Lutreolina,carni,Didelphimorphia,-0.9942522733438669
+id_000037,train,13.9,Macaque,Macaca,omni,Primates,1.916922612182061
+id_000038,test,NA,Mongolian gerbil,Meriones,herbi,Rodentia,-2.9374633654300153
+id_000039,train,9.7,Golden hamster,Mesocricetus,herbi,Rodentia,-2.120263536200091
+id_000040,train,11.2,Vole ,Microtus,herbi,Rodentia,-3.3524072174927233
+id_000041,train,11.5,House mouse,Mus,herbi,Rodentia,-3.816712825623821
+id_000042,test,NA,Little brown bat,Myotis,insecti,Chiroptera,-4.605170185988091
+id_000043,train,9.4,Round-tailed muskrat,Neofiber,herbi,Rodentia,-1.324258970200438
+id_000044,train,13,Slow loris,Nyctibeus,carni,Primates,0.3364722366212129
+id_000045,train,16.3,Degu,Octodon,herbi,Rodentia,-1.5606477482646683
+id_000046,test,NA,Northern grasshopper mouse,Onychomys,carni,Rodentia,-3.575550768806933
+id_000047,train,15.6,Rabbit,Oryctolagus,herbi,Lagomorpha,0.9162907318741551
+id_000048,train,20.2,Sheep,Ovis,herbi,Artiodactyla,4.0163830207523885
+id_000049,test,NA,Chimpanzee,Pan,omni,Primates,3.955082494888593
+id_000050,train,8.2,Tiger,Panthera,carni,Carnivora,5.091071770386599
+id_000051,train,13.6,Jaguar,Panthera,carni,Carnivora,4.605170185988092
+id_000052,train,10.5,Lion,Panthera,carni,Carnivora,5.084498950693076
+id_000053,train,14.6,Baboon,Papio,omni,Primates,3.2282319197922256
+id_000054,train,13,Potto,Perodicticus,omni,Primates,0.09531017980432493
+id_000055,train,20.5,Caspian seal,Phoca,carni,Carnivora,4.454347296253507
+id_000056,train,18.45,Common porpoise,Phocoena,carni,Cetacea,3.9736823858148735
+id_000057,train,12.9,Potoroo,Potorous,herbi,Diprotodontia,0.09531017980432493
+id_000058,train,5.9,Giant armadillo,Priodontes,insecti,Cingulata,4.0943445622221
+id_000059,train,11,Laboratory rat,Rattus,herbi,Rodentia,-1.1394342831883648
+id_000060,train,15.3,African striped mouse,Rhabdomys,omni,Rodentia,-3.123565645063876
+id_000061,test,NA,Squirrel monkey,Saimiri,omni,Primates,-0.2970592342643779
+id_000062,train,15.6,Eastern american mole,Scalopus,insecti,Soricomorpha,-2.5902671654458267
+id_000063,train,12.7,Cotton rat,Sigmodon,herbi,Rodentia,-1.9105430052180221
+id_000064,train,7.4,Arctic ground squirrel,Spermophilus,herbi,Rodentia,-0.08338160893905101
+id_000065,train,10.2,Thirteen-lined ground squirrel,Spermophilus,herbi,Rodentia,-2.2926347621408776
+id_000066,train,8.1,Golden-mantled ground squirrel,Spermophilus,herbi,Rodentia,-1.584745299843729
+id_000067,train,14.9,Pig,Sus,omni,Artiodactyla,4.457250055911469
+id_000068,train,15.4,Short-nosed echidna,Tachyglossus,insecti,Monotremata,1.5040773967762742
+id_000069,train,8.2,Eastern american chipmunk,Tamias,herbi,Rodentia,-2.1892564076870427
+id_000070,test,NA,Brazilian tapir,Tapirus,herbi,Perissodactyla,5.3351361589362485
+id_000071,train,8.4,Tenrec,Tenrec,omni,Afrosoricida,-0.10536051565782628
+id_000072,train,15.1,Tree shrew,Tupaia,omni,Scandentia,-2.2633643798407643
+id_000073,test,NA,Bottle-nosed dolphin,Tursiops,carni,Cetacea,5.155197291953219
+id_000074,train,17.7,Genet,Genetta,carni,Carnivora,0.6931471805599453
+id_000075,train,11.5,Arctic fox,Vulpes,carni,Carnivora,1.2178757094949273
+id_000076,test,NA,Red fox,Vulpes,carni,Carnivora,1.4422019930581866
