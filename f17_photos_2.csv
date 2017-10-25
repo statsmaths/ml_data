@@ -1,4 +1,4 @@
-obs_id,train_id,outside
+obs_id,train_id,class
 id_000001,train,0
 id_000002,valid,0
 id_000003,train,1
