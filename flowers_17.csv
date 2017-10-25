@@ -1,246 +1,246 @@
 obs_id,train_id,class,class_name
-id_000362,valid,5,dandelion
-id_000506,train,7,iris
-id_000778,valid,10,windflower
-id_001233,train,16,tulip
-id_000274,train,4,daisy
-id_001218,train,16,tulip
+id_000362,valid,5,crocus
+id_000506,train,7,tigerlily
+id_000778,valid,10,sunflower
+id_001233,train,16,windflower
+id_000274,train,4,bluebell
+id_001218,train,16,windflower
 id_001280,test,NA,NA
-id_000895,train,12,lily valley
-id_000851,valid,11,snowdrop
-id_000084,train,2,colts foot
-id_000279,train,4,daisy
+id_000895,train,12,colts foot
+id_000851,valid,11,daisy
+id_000084,train,2,snowdrop
+id_000279,train,4,bluebell
 id_000239,test,NA,NA
-id_000927,valid,12,lily valley
-id_000518,train,7,iris
+id_000927,valid,12,colts foot
+id_000518,train,7,tigerlily
 id_001037,test,NA,NA
-id_000670,train,9,sunflower
-id_000965,train,13,bluebell
-id_001333,valid,17,cowslip
-id_000511,train,7,iris
-id_001043,train,14,corcus
-id_001253,valid,16,tulip
-id_000285,valid,4,daisy
+id_000670,train,9,fritillary
+id_000965,train,13,dandelion
+id_001333,valid,17,pansy
+id_000511,train,7,tigerlily
+id_001043,train,14,cowslip
+id_001253,valid,16,windflower
+id_000285,valid,4,bluebell
 id_000872,test,NA,NA
-id_000168,train,3,daffodil
-id_000358,train,5,dandelion
-id_000516,train,7,iris
-id_000018,train,1,buttercup
-id_000510,train,7,iris
-id_001159,train,15,tigerlily
-id_000454,valid,6,fritillary
-id_000642,train,9,sunflower
+id_000168,train,3,lily valley
+id_000358,train,5,crocus
+id_000516,train,7,tigerlily
+id_000018,train,1,daffodil
+id_000510,train,7,tigerlily
+id_001159,train,15,buttercup
+id_000454,valid,6,iris
+id_000642,train,9,fritillary
 id_000797,test,NA,NA
-id_000656,train,9,sunflower
-id_000248,train,4,daisy
-id_001098,valid,14,corcus
-id_000886,train,12,lily valley
-id_001052,train,14,corcus
+id_000656,train,9,fritillary
+id_000248,train,4,bluebell
+id_001098,valid,14,cowslip
+id_000886,train,12,colts foot
+id_001052,train,14,cowslip
 id_000143,test,NA,NA
 id_000957,test,NA,NA
 id_000544,test,NA,NA
-id_001084,valid,14,corcus
-id_000854,valid,11,snowdrop
+id_001084,valid,14,cowslip
+id_000854,valid,11,daisy
 id_001032,test,NA,NA
-id_000729,train,10,windflower
-id_000698,valid,9,sunflower
+id_000729,train,10,sunflower
+id_000698,valid,9,fritillary
 id_001039,test,NA,NA
-id_000031,train,1,buttercup
+id_000031,train,1,daffodil
 id_000627,test,NA,NA
-id_000961,train,13,bluebell
-id_000909,train,12,lily valley
+id_000961,train,13,dandelion
+id_000909,train,12,colts foot
 id_000626,test,NA,NA
-id_001128,train,15,tigerlily
-id_000574,train,8,pansy
+id_001128,train,15,buttercup
+id_000574,train,8,tulip
 id_000320,test,NA,NA
-id_000093,train,2,colts foot
-id_000130,valid,2,colts foot
-id_000413,train,6,fritillary
-id_000676,train,9,sunflower
+id_000093,train,2,snowdrop
+id_000130,valid,2,snowdrop
+id_000413,train,6,iris
+id_000676,train,9,fritillary
 id_000862,test,NA,NA
-id_000530,valid,7,iris
+id_000530,valid,7,tigerlily
 id_001187,test,NA,NA
 id_000382,test,NA,NA
-id_000596,train,8,pansy
-id_000432,train,6,fritillary
-id_000844,valid,11,snowdrop
-id_000335,train,5,dandelion
-id_000620,valid,8,pansy
-id_000991,train,13,bluebell
-id_000109,train,2,colts foot
-id_001131,train,15,tigerlily
-id_000438,train,6,fritillary
-id_001083,valid,14,corcus
-id_000447,valid,6,fritillary
-id_000430,train,6,fritillary
-id_000613,valid,8,pansy
-id_001147,train,15,tigerlily
+id_000596,train,8,tulip
+id_000432,train,6,iris
+id_000844,valid,11,daisy
+id_000335,train,5,crocus
+id_000620,valid,8,tulip
+id_000991,train,13,dandelion
+id_000109,train,2,snowdrop
+id_001131,train,15,buttercup
+id_000438,train,6,iris
+id_001083,valid,14,cowslip
+id_000447,valid,6,iris
+id_000430,train,6,iris
+id_000613,valid,8,tulip
+id_001147,train,15,buttercup
 id_001110,test,NA,NA
-id_000501,train,7,iris
-id_000997,train,13,bluebell
-id_001231,train,16,tulip
+id_000501,train,7,tigerlily
+id_000997,train,13,dandelion
+id_001231,train,16,windflower
 id_000557,test,NA,NA
-id_000912,train,12,lily valley
-id_000512,train,7,iris
-id_000416,train,6,fritillary
-id_000967,train,13,bluebell
-id_000259,train,4,daisy
-id_000906,train,12,lily valley
+id_000912,train,12,colts foot
+id_000512,train,7,tigerlily
+id_000416,train,6,iris
+id_000967,train,13,dandelion
+id_000259,train,4,bluebell
+id_000906,train,12,colts foot
 id_000155,test,NA,NA
 id_000313,test,NA,NA
-id_000183,train,3,daffodil
+id_000183,train,3,lily valley
 id_000305,test,NA,NA
 id_000075,test,NA,NA
-id_000815,train,11,snowdrop
+id_000815,train,11,daisy
 id_001111,test,NA,NA
-id_000987,train,13,bluebell
-id_001009,valid,13,bluebell
-id_000576,train,8,pansy
+id_000987,train,13,dandelion
+id_001009,valid,13,dandelion
+id_000576,train,8,tulip
 id_001347,test,NA,NA
 id_001024,test,NA,NA
-id_000763,valid,10,windflower
-id_000825,train,11,snowdrop
-id_000445,valid,6,fritillary
-id_000340,train,5,dandelion
-id_001248,valid,16,tulip
+id_000763,valid,10,sunflower
+id_000825,train,11,daisy
+id_000445,valid,6,iris
+id_000340,train,5,crocus
+id_001248,valid,16,windflower
 id_000796,test,NA,NA
-id_000268,train,4,daisy
-id_000163,train,3,daffodil
-id_000600,train,8,pansy
-id_001157,train,15,tigerlily
-id_000750,train,10,windflower
-id_001221,train,16,tulip
-id_000915,train,12,lily valley
-id_000446,valid,6,fritillary
-id_000539,valid,7,iris
-id_000185,train,3,daffodil
-id_000017,train,1,buttercup
-id_000891,train,12,lily valley
-id_000129,valid,2,colts foot
+id_000268,train,4,bluebell
+id_000163,train,3,lily valley
+id_000600,train,8,tulip
+id_001157,train,15,buttercup
+id_000750,train,10,sunflower
+id_001221,train,16,windflower
+id_000915,train,12,colts foot
+id_000446,valid,6,iris
+id_000539,valid,7,tigerlily
+id_000185,train,3,lily valley
+id_000017,train,1,daffodil
+id_000891,train,12,colts foot
+id_000129,valid,2,snowdrop
 id_000555,test,NA,NA
 id_000795,test,NA,NA
-id_001230,train,16,tulip
-id_000615,valid,8,pansy
-id_001340,valid,17,cowslip
-id_000215,valid,3,daffodil
-id_000933,valid,12,lily valley
-id_000561,train,8,pansy
+id_001230,train,16,windflower
+id_000615,valid,8,tulip
+id_001340,valid,17,pansy
+id_000215,valid,3,lily valley
+id_000933,valid,12,colts foot
+id_000561,train,8,tulip
 id_000631,test,NA,NA
-id_000256,train,4,daisy
-id_000282,valid,4,daisy
-id_000734,train,10,windflower
+id_000256,train,4,bluebell
+id_000282,valid,4,bluebell
+id_000734,train,10,sunflower
 id_000708,test,NA,NA
-id_000095,train,2,colts foot
-id_000044,valid,1,buttercup
+id_000095,train,2,snowdrop
+id_000044,valid,1,daffodil
 id_000789,test,NA,NA
-id_001139,train,15,tigerlily
-id_000733,train,10,windflower
-id_000687,valid,9,sunflower
-id_000644,train,9,sunflower
-id_001204,train,16,tulip
-id_001294,train,17,cowslip
-id_000834,train,11,snowdrop
-id_001281,train,17,cowslip
-id_000291,valid,4,daisy
+id_001139,train,15,buttercup
+id_000733,train,10,sunflower
+id_000687,valid,9,fritillary
+id_000644,train,9,fritillary
+id_001204,train,16,windflower
+id_001294,train,17,pansy
+id_000834,train,11,daisy
+id_001281,train,17,pansy
+id_000291,valid,4,bluebell
 id_000315,test,NA,NA
-id_000887,train,12,lily valley
+id_000887,train,12,colts foot
 id_000550,test,NA,NA
-id_000213,valid,3,daffodil
+id_000213,valid,3,lily valley
 id_001274,test,NA,NA
-id_000128,valid,2,colts foot
-id_001047,train,14,corcus
-id_000744,train,10,windflower
-id_000674,train,9,sunflower
+id_000128,valid,2,snowdrop
+id_001047,train,14,cowslip
+id_000744,train,10,sunflower
+id_000674,train,9,fritillary
 id_000398,test,NA,NA
 id_000547,test,NA,NA
-id_000604,valid,8,pansy
-id_000218,valid,3,daffodil
+id_000604,valid,8,tulip
+id_000218,valid,3,lily valley
 id_000638,test,NA,NA
-id_000091,train,2,colts foot
-id_000334,train,5,dandelion
+id_000091,train,2,snowdrop
+id_000334,train,5,crocus
 id_001357,test,NA,NA
-id_000342,train,5,dandelion
-id_001074,train,14,corcus
-id_000535,valid,7,iris
-id_000934,valid,12,lily valley
-id_001054,train,14,corcus
-id_000494,train,7,iris
+id_000342,train,5,crocus
+id_001074,train,14,cowslip
+id_000535,valid,7,tigerlily
+id_000934,valid,12,colts foot
+id_001054,train,14,cowslip
+id_000494,train,7,tigerlily
 id_000077,test,NA,NA
-id_000401,train,6,fritillary
+id_000401,train,6,iris
 id_000863,test,NA,NA
-id_000403,train,6,fritillary
-id_000751,train,10,windflower
-id_001000,train,13,bluebell
-id_001018,valid,13,bluebell
+id_000403,train,6,iris
+id_000751,train,10,sunflower
+id_001000,train,13,dandelion
+id_001018,valid,13,dandelion
 id_000465,test,NA,NA
-id_000452,valid,6,fritillary
-id_001062,train,14,corcus
+id_000452,valid,6,iris
+id_001062,train,14,cowslip
 id_001261,test,NA,NA
 id_000877,test,NA,NA
 id_000716,test,NA,NA
-id_001067,train,14,corcus
-id_000347,train,5,dandelion
+id_001067,train,14,cowslip
+id_000347,train,5,crocus
 id_000226,test,NA,NA
-id_001045,train,14,corcus
-id_000593,train,8,pansy
-id_001318,train,17,cowslip
+id_001045,train,14,cowslip
+id_000593,train,8,tulip
+id_001318,train,17,pansy
 id_000223,test,NA,NA
-id_001244,valid,16,tulip
-id_000850,valid,11,snowdrop
+id_001244,valid,16,windflower
+id_000850,valid,11,daisy
 id_001107,test,NA,NA
-id_001330,valid,17,cowslip
-id_000833,train,11,snowdrop
-id_000455,valid,6,fritillary
-id_000118,train,2,colts foot
-id_001289,train,17,cowslip
-id_000331,train,5,dandelion
-id_000689,valid,9,sunflower
-id_001243,valid,16,tulip
-id_000978,train,13,bluebell
-id_000370,valid,5,dandelion
-id_001311,train,17,cowslip
+id_001330,valid,17,pansy
+id_000833,train,11,daisy
+id_000455,valid,6,iris
+id_000118,train,2,snowdrop
+id_001289,train,17,pansy
+id_000331,train,5,crocus
+id_000689,valid,9,fritillary
+id_001243,valid,16,windflower
+id_000978,train,13,dandelion
+id_000370,valid,5,crocus
+id_001311,train,17,pansy
 id_000311,test,NA,NA
-id_000254,train,4,daisy
-id_000599,train,8,pansy
+id_000254,train,4,bluebell
+id_000599,train,8,tulip
 id_000312,test,NA,NA
-id_000210,valid,3,daffodil
-id_001158,train,15,tigerlily
-id_000650,train,9,sunflower
+id_000210,valid,3,lily valley
+id_001158,train,15,buttercup
+id_000650,train,9,fritillary
 id_000149,test,NA,NA
-id_000296,valid,4,daisy
-id_000827,train,11,snowdrop
+id_000296,valid,4,bluebell
+id_000827,train,11,daisy
 id_001106,test,NA,NA
-id_000116,train,2,colts foot
+id_000116,train,2,snowdrop
 id_001183,test,NA,NA
-id_001088,valid,14,corcus
-id_000939,valid,12,lily valley
-id_000353,train,5,dandelion
-id_001210,train,16,tulip
-id_001090,valid,14,corcus
-id_001143,train,15,tigerlily
+id_001088,valid,14,cowslip
+id_000939,valid,12,colts foot
+id_000353,train,5,crocus
+id_001210,train,16,windflower
+id_001090,valid,14,cowslip
+id_001143,train,15,buttercup
 id_000388,test,NA,NA
-id_000300,valid,4,daisy
-id_000189,train,3,daffodil
-id_000367,valid,5,dandelion
-id_000581,train,8,pansy
-id_001050,train,14,corcus
-id_000580,train,8,pansy
-id_000293,valid,4,daisy
-id_000053,valid,1,buttercup
+id_000300,valid,4,bluebell
+id_000189,train,3,lily valley
+id_000367,valid,5,crocus
+id_000581,train,8,tulip
+id_001050,train,14,cowslip
+id_000580,train,8,tulip
+id_000293,valid,4,bluebell
+id_000053,valid,1,daffodil
 id_000474,test,NA,NA
-id_000966,train,13,bluebell
+id_000966,train,13,dandelion
 id_000393,test,NA,NA
-id_001153,train,15,tigerlily
-id_000423,train,6,fritillary
+id_001153,train,15,buttercup
+id_000423,train,6,iris
 id_000712,test,NA,NA
-id_000440,train,6,fritillary
-id_000776,valid,10,windflower
-id_000775,valid,10,windflower
+id_000440,train,6,iris
+id_000776,valid,10,sunflower
+id_000775,valid,10,sunflower
 id_000624,test,NA,NA
-id_000483,train,7,iris
-id_000508,train,7,iris
-id_000344,train,5,dandelion
-id_000648,train,9,sunflower
+id_000483,train,7,tigerlily
+id_000508,train,7,tigerlily
+id_000344,train,5,crocus
+id_000648,train,9,fritillary
 id_001188,test,NA,NA
 id_000160,test,NA,NA
 id_000464,test,NA,NA
@@ -248,1114 +248,1114 @@ id_000236,test,NA,NA
 id_000478,test,NA,NA
 id_000148,test,NA,NA
 id_001278,test,NA,NA
-id_001048,train,14,corcus
-id_000846,valid,11,snowdrop
+id_001048,train,14,cowslip
+id_000846,valid,11,daisy
 id_001035,test,NA,NA
-id_000522,valid,7,iris
-id_000669,train,9,sunflower
-id_000537,valid,7,iris
-id_000121,valid,2,colts foot
+id_000522,valid,7,tigerlily
+id_000669,train,9,fritillary
+id_000537,valid,7,tigerlily
+id_000121,valid,2,snowdrop
 id_001356,test,NA,NA
-id_001215,train,16,tulip
-id_000411,train,6,fritillary
+id_001215,train,16,windflower
+id_000411,train,6,iris
 id_001030,test,NA,NA
-id_000577,train,8,pansy
-id_000349,train,5,dandelion
+id_000577,train,8,tulip
+id_000349,train,5,crocus
 id_000306,test,NA,NA
 id_000864,test,NA,NA
-id_000770,valid,10,windflower
-id_000181,train,3,daffodil
+id_000770,valid,10,sunflower
+id_000181,train,3,lily valley
 id_000071,test,NA,NA
-id_001260,valid,16,tulip
-id_000678,train,9,sunflower
-id_000186,train,3,daffodil
+id_001260,valid,16,windflower
+id_000678,train,9,fritillary
+id_000186,train,3,lily valley
 id_000068,test,NA,NA
-id_000119,train,2,colts foot
+id_000119,train,2,snowdrop
 id_001277,test,NA,NA
-id_001246,valid,16,tulip
-id_000325,train,5,dandelion
-id_000209,valid,3,daffodil
+id_001246,valid,16,windflower
+id_000325,train,5,crocus
+id_000209,valid,3,lily valley
 id_001350,test,NA,NA
-id_000197,train,3,daffodil
-id_000517,train,7,iris
-id_001220,train,16,tulip
-id_001314,train,17,cowslip
-id_000569,train,8,pansy
+id_000197,train,3,lily valley
+id_000517,train,7,tigerlily
+id_001220,train,16,windflower
+id_001314,train,17,pansy
+id_000569,train,8,tulip
 id_000949,test,NA,NA
-id_000402,train,6,fritillary
-id_000052,valid,1,buttercup
+id_000402,train,6,iris
+id_000052,valid,1,daffodil
 id_000150,test,NA,NA
-id_000346,train,5,dandelion
-id_000167,train,3,daffodil
+id_000346,train,5,crocus
+id_000167,train,3,lily valley
 id_000142,test,NA,NA
 id_000238,test,NA,NA
-id_000243,train,4,daisy
+id_000243,train,4,bluebell
 id_000141,test,NA,NA
-id_001049,train,14,corcus
-id_001099,valid,14,corcus
+id_001049,train,14,cowslip
+id_001099,valid,14,cowslip
 id_000541,test,NA,NA
-id_000726,train,10,windflower
-id_000106,train,2,colts foot
-id_000127,valid,2,colts foot
-id_000054,valid,1,buttercup
-id_000986,train,13,bluebell
+id_000726,train,10,sunflower
+id_000106,train,2,snowdrop
+id_000127,valid,2,snowdrop
+id_000054,valid,1,daffodil
+id_000986,train,13,dandelion
 id_000715,test,NA,NA
-id_000101,train,2,colts foot
+id_000101,train,2,snowdrop
 id_001108,test,NA,NA
-id_000488,train,7,iris
+id_000488,train,7,tigerlily
 id_000397,test,NA,NA
-id_001046,train,14,corcus
-id_001091,valid,14,corcus
-id_000857,valid,11,snowdrop
+id_001046,train,14,cowslip
+id_001091,valid,14,cowslip
+id_000857,valid,11,daisy
 id_000073,test,NA,NA
-id_000421,train,6,fritillary
-id_001129,train,15,tigerlily
-id_000203,valid,3,daffodil
-id_000882,train,12,lily valley
-id_000754,train,10,windflower
-id_000280,train,4,daisy
+id_000421,train,6,iris
+id_001129,train,15,buttercup
+id_000203,valid,3,lily valley
+id_000882,train,12,colts foot
+id_000754,train,10,sunflower
+id_000280,train,4,bluebell
 id_001263,test,NA,NA
-id_000087,train,2,colts foot
-id_001162,valid,15,tigerlily
-id_001010,valid,13,bluebell
-id_000651,train,9,sunflower
-id_000692,valid,9,sunflower
-id_001086,valid,14,corcus
-id_000422,train,6,fritillary
+id_000087,train,2,snowdrop
+id_001162,valid,15,buttercup
+id_001010,valid,13,dandelion
+id_000651,train,9,fritillary
+id_000692,valid,9,fritillary
+id_001086,valid,14,cowslip
+id_000422,train,6,iris
 id_001033,test,NA,NA
-id_001325,valid,17,cowslip
+id_001325,valid,17,pansy
 id_001266,test,NA,NA
-id_000840,train,11,snowdrop
-id_000808,train,11,snowdrop
-id_000277,train,4,daisy
+id_000840,train,11,daisy
+id_000808,train,11,daisy
+id_000277,train,4,bluebell
 id_000786,test,NA,NA
-id_001016,valid,13,bluebell
+id_001016,valid,13,dandelion
 id_000303,test,NA,NA
 id_001102,test,NA,NA
-id_000835,train,11,snowdrop
+id_000835,train,11,daisy
 id_000080,test,NA,NA
-id_000373,valid,5,dandelion
-id_001331,valid,17,cowslip
-id_000161,train,3,daffodil
-id_001298,train,17,cowslip
-id_001293,train,17,cowslip
-id_001042,train,14,corcus
-id_000180,train,3,daffodil
+id_000373,valid,5,crocus
+id_001331,valid,17,pansy
+id_000161,train,3,lily valley
+id_001298,train,17,pansy
+id_001293,train,17,pansy
+id_001042,train,14,cowslip
+id_000180,train,3,lily valley
 id_000552,test,NA,NA
 id_000391,test,NA,NA
-id_001224,train,16,tulip
+id_001224,train,16,windflower
 id_001104,test,NA,NA
 id_000476,test,NA,NA
-id_000175,train,3,daffodil
-id_000374,valid,5,dandelion
-id_001219,train,16,tulip
-id_000492,train,7,iris
+id_000175,train,3,lily valley
+id_000374,valid,5,crocus
+id_001219,train,16,windflower
+id_000492,train,7,tigerlily
 id_000065,test,NA,NA
 id_000791,test,NA,NA
 id_001038,test,NA,NA
 id_001109,test,NA,NA
-id_001339,valid,17,cowslip
-id_000852,valid,11,snowdrop
-id_000083,train,2,colts foot
-id_000889,train,12,lily valley
+id_001339,valid,17,pansy
+id_000852,valid,11,daisy
+id_000083,train,2,snowdrop
+id_000889,train,12,colts foot
 id_000473,test,NA,NA
-id_000110,train,2,colts foot
-id_000333,train,5,dandelion
-id_000836,train,11,snowdrop
-id_001176,valid,15,tigerlily
-id_000585,train,8,pansy
-id_001170,valid,15,tigerlily
-id_001094,valid,14,corcus
-id_001316,train,17,cowslip
-id_000694,valid,9,sunflower
-id_000460,valid,6,fritillary
-id_000433,train,6,fritillary
+id_000110,train,2,snowdrop
+id_000333,train,5,crocus
+id_000836,train,11,daisy
+id_001176,valid,15,buttercup
+id_000585,train,8,tulip
+id_001170,valid,15,buttercup
+id_001094,valid,14,cowslip
+id_001316,train,17,pansy
+id_000694,valid,9,fritillary
+id_000460,valid,6,iris
+id_000433,train,6,iris
 id_000556,test,NA,NA
-id_000918,train,12,lily valley
+id_000918,train,12,colts foot
 id_000228,test,NA,NA
-id_000219,valid,3,daffodil
-id_000414,train,6,fritillary
-id_000329,train,5,dandelion
+id_000219,valid,3,lily valley
+id_000414,train,6,iris
+id_000329,train,5,crocus
 id_001352,test,NA,NA
-id_001013,valid,13,bluebell
-id_000484,train,7,iris
-id_001007,valid,13,bluebell
+id_001013,valid,13,dandelion
+id_000484,train,7,tigerlily
+id_001007,valid,13,dandelion
 id_000553,test,NA,NA
-id_001171,valid,15,tigerlily
-id_001322,valid,17,cowslip
+id_001171,valid,15,buttercup
+id_001322,valid,17,pansy
 id_000227,test,NA,NA
 id_000235,test,NA,NA
-id_000777,valid,10,windflower
-id_000810,train,11,snowdrop
-id_000111,train,2,colts foot
-id_000936,valid,12,lily valley
-id_001323,valid,17,cowslip
-id_000140,valid,2,colts foot
-id_000896,train,12,lily valley
-id_000491,train,7,iris
-id_001075,train,14,corcus
-id_000337,train,5,dandelion
+id_000777,valid,10,sunflower
+id_000810,train,11,daisy
+id_000111,train,2,snowdrop
+id_000936,valid,12,colts foot
+id_001323,valid,17,pansy
+id_000140,valid,2,snowdrop
+id_000896,train,12,colts foot
+id_000491,train,7,tigerlily
+id_001075,train,14,cowslip
+id_000337,train,5,crocus
 id_000637,test,NA,NA
 id_000301,test,NA,NA
-id_000339,train,5,dandelion
-id_000970,train,13,bluebell
+id_000339,train,5,crocus
+id_000970,train,13,dandelion
 id_000633,test,NA,NA
-id_000178,train,3,daffodil
-id_001249,valid,16,tulip
-id_000860,valid,11,snowdrop
-id_000903,train,12,lily valley
+id_000178,train,3,lily valley
+id_001249,valid,16,windflower
+id_000860,valid,11,daisy
+id_000903,train,12,colts foot
 id_001040,test,NA,NA
-id_000354,train,5,dandelion
-id_000745,train,10,windflower
-id_000011,train,1,buttercup
+id_000354,train,5,crocus
+id_000745,train,10,sunflower
+id_000011,train,1,daffodil
 id_001353,test,NA,NA
 id_000945,test,NA,NA
-id_001258,valid,16,tulip
+id_001258,valid,16,windflower
 id_000709,test,NA,NA
 id_001190,test,NA,NA
-id_000668,train,9,sunflower
-id_000450,valid,6,fritillary
+id_000668,train,9,fritillary
+id_000450,valid,6,iris
 id_000467,test,NA,NA
 id_001355,test,NA,NA
-id_000655,train,9,sunflower
-id_001124,train,15,tigerlily
-id_000409,train,6,fritillary
-id_000981,train,13,bluebell
+id_000655,train,9,fritillary
+id_001124,train,15,buttercup
+id_000409,train,6,iris
+id_000981,train,13,dandelion
 id_000622,test,NA,NA
-id_000135,valid,2,colts foot
-id_000323,train,5,dandelion
-id_000380,valid,5,dandelion
+id_000135,valid,2,snowdrop
+id_000323,train,5,crocus
+id_000380,valid,5,crocus
 id_001026,test,NA,NA
 id_000871,test,NA,NA
 id_000782,test,NA,NA
-id_000819,train,11,snowdrop
-id_001236,train,16,tulip
-id_001142,train,15,tigerlily
-id_000352,train,5,dandelion
-id_000499,train,7,iris
-id_000098,train,2,colts foot
-id_000742,train,10,windflower
-id_000684,valid,9,sunflower
-id_000049,valid,1,buttercup
-id_001259,valid,16,tulip
-id_000848,valid,11,snowdrop
-id_000039,train,1,buttercup
-id_000271,train,4,daisy
+id_000819,train,11,daisy
+id_001236,train,16,windflower
+id_001142,train,15,buttercup
+id_000352,train,5,crocus
+id_000499,train,7,tigerlily
+id_000098,train,2,snowdrop
+id_000742,train,10,sunflower
+id_000684,valid,9,fritillary
+id_000049,valid,1,daffodil
+id_001259,valid,16,windflower
+id_000848,valid,11,daisy
+id_000039,train,1,daffodil
+id_000271,train,4,bluebell
 id_001021,test,NA,NA
 id_000560,test,NA,NA
-id_001070,train,14,corcus
-id_001141,train,15,tigerlily
-id_000336,train,5,dandelion
+id_001070,train,14,cowslip
+id_001141,train,15,buttercup
+id_000336,train,5,crocus
 id_000861,test,NA,NA
-id_000113,train,2,colts foot
+id_000113,train,2,snowdrop
 id_000064,test,NA,NA
 id_000878,test,NA,NA
 id_001191,test,NA,NA
 id_001344,test,NA,NA
 id_001273,test,NA,NA
-id_000050,valid,1,buttercup
+id_000050,valid,1,daffodil
 id_001022,test,NA,NA
-id_000523,valid,7,iris
-id_000892,train,12,lily valley
+id_000523,valid,7,tigerlily
+id_000892,train,12,colts foot
 id_000545,test,NA,NA
-id_000059,valid,1,buttercup
+id_000059,valid,1,daffodil
 id_000146,test,NA,NA
-id_000428,train,6,fritillary
-id_000002,train,1,buttercup
+id_000428,train,6,iris
+id_000002,train,1,daffodil
 id_000396,test,NA,NA
 id_000234,test,NA,NA
 id_001034,test,NA,NA
 id_000640,test,NA,NA
-id_000900,train,12,lily valley
-id_000425,train,6,fritillary
-id_000616,valid,8,pansy
+id_000900,train,12,colts foot
+id_000425,train,6,iris
+id_000616,valid,8,tulip
 id_001028,test,NA,NA
-id_001173,valid,15,tigerlily
+id_001173,valid,15,buttercup
 id_000960,test,NA,NA
-id_001145,train,15,tigerlily
-id_000105,train,2,colts foot
-id_001214,train,16,tulip
-id_000764,valid,10,windflower
+id_001145,train,15,buttercup
+id_000105,train,2,snowdrop
+id_001214,train,16,windflower
+id_000764,valid,10,sunflower
 id_000385,test,NA,NA
-id_001126,train,15,tigerlily
-id_000610,valid,8,pansy
+id_001126,train,15,buttercup
+id_000610,valid,8,tulip
 id_001345,test,NA,NA
-id_000137,valid,2,colts foot
-id_000746,train,10,windflower
-id_000831,train,11,snowdrop
-id_001335,valid,17,cowslip
+id_000137,valid,2,snowdrop
+id_000746,train,10,sunflower
+id_000831,train,11,daisy
+id_001335,valid,17,pansy
 id_001267,test,NA,NA
-id_000166,train,3,daffodil
-id_000898,train,12,lily valley
-id_000766,valid,10,windflower
-id_000117,train,2,colts foot
-id_000020,train,1,buttercup
-id_000817,train,11,snowdrop
-id_000255,train,4,daisy
-id_001312,train,17,cowslip
+id_000166,train,3,lily valley
+id_000898,train,12,colts foot
+id_000766,valid,10,sunflower
+id_000117,train,2,snowdrop
+id_000020,train,1,daffodil
+id_000817,train,11,daisy
+id_000255,train,4,bluebell
+id_001312,train,17,pansy
 id_001199,test,NA,NA
-id_001208,train,16,tulip
-id_000376,valid,5,dandelion
-id_001288,train,17,cowslip
-id_000730,train,10,windflower
-id_000048,valid,1,buttercup
+id_001208,train,16,windflower
+id_000376,valid,5,crocus
+id_001288,train,17,pansy
+id_000730,train,10,sunflower
+id_000048,valid,1,daffodil
 id_000477,test,NA,NA
-id_000592,train,8,pansy
-id_000565,train,8,pansy
-id_001079,train,14,corcus
-id_000405,train,6,fritillary
-id_000829,train,11,snowdrop
+id_000592,train,8,tulip
+id_000565,train,8,tulip
+id_001079,train,14,cowslip
+id_000405,train,6,iris
+id_000829,train,11,daisy
 id_001120,test,NA,NA
-id_000725,train,10,windflower
-id_000645,train,9,sunflower
+id_000725,train,10,sunflower
+id_000645,train,9,fritillary
 id_001262,test,NA,NA
-id_001144,train,15,tigerlily
-id_001056,train,14,corcus
-id_000007,train,1,buttercup
-id_000617,valid,8,pansy
-id_000607,valid,8,pansy
+id_001144,train,15,buttercup
+id_001056,train,14,cowslip
+id_000007,train,1,daffodil
+id_000617,valid,8,tulip
+id_000607,valid,8,tulip
 id_000159,test,NA,NA
 id_000546,test,NA,NA
-id_000457,valid,6,fritillary
-id_000283,valid,4,daisy
-id_001150,train,15,tigerlily
-id_000697,valid,9,sunflower
-id_000595,train,8,pansy
-id_001134,train,15,tigerlily
-id_000108,train,2,colts foot
-id_001315,train,17,cowslip
-id_001125,train,15,tigerlily
-id_000671,train,9,sunflower
+id_000457,valid,6,iris
+id_000283,valid,4,bluebell
+id_001150,train,15,buttercup
+id_000697,valid,9,fritillary
+id_000595,train,8,tulip
+id_001134,train,15,buttercup
+id_000108,train,2,snowdrop
+id_001315,train,17,pansy
+id_001125,train,15,buttercup
+id_000671,train,9,fritillary
 id_000632,test,NA,NA
-id_001329,valid,17,cowslip
-id_000826,train,11,snowdrop
-id_000504,train,7,iris
-id_000025,train,1,buttercup
-id_001320,train,17,cowslip
+id_001329,valid,17,pansy
+id_000826,train,11,daisy
+id_000504,train,7,tigerlily
+id_000025,train,1,daffodil
+id_001320,train,17,pansy
 id_000230,test,NA,NA
-id_000097,train,2,colts foot
-id_000036,train,1,buttercup
-id_001326,valid,17,cowslip
-id_000278,train,4,daisy
+id_000097,train,2,snowdrop
+id_000036,train,1,daffodil
+id_001326,valid,17,pansy
+id_000278,train,4,bluebell
 id_000867,test,NA,NA
 id_001342,test,NA,NA
-id_000327,train,5,dandelion
+id_000327,train,5,crocus
 id_000783,test,NA,NA
 id_001198,test,NA,NA
-id_000269,train,4,daisy
+id_000269,train,4,bluebell
 id_001023,test,NA,NA
-id_001229,train,16,tulip
-id_000811,train,11,snowdrop
+id_001229,train,16,windflower
+id_000811,train,11,daisy
 id_000309,test,NA,NA
-id_000843,valid,11,snowdrop
-id_000839,train,11,snowdrop
+id_000843,valid,11,daisy
+id_000839,train,11,daisy
 id_000706,test,NA,NA
 id_000463,test,NA,NA
-id_000009,train,1,buttercup
-id_000732,train,10,windflower
-id_000938,valid,12,lily valley
+id_000009,train,1,daffodil
+id_000732,train,10,sunflower
+id_000938,valid,12,colts foot
 id_000308,test,NA,NA
 id_000076,test,NA,NA
-id_000040,train,1,buttercup
-id_000659,train,9,sunflower
-id_000665,train,9,sunflower
-id_000524,valid,7,iris
-id_000107,train,2,colts foot
-id_000273,train,4,daisy
-id_000583,train,8,pansy
-id_000723,train,10,windflower
+id_000040,train,1,daffodil
+id_000659,train,9,fritillary
+id_000665,train,9,fritillary
+id_000524,valid,7,tigerlily
+id_000107,train,2,snowdrop
+id_000273,train,4,bluebell
+id_000583,train,8,tulip
+id_000723,train,10,sunflower
 id_000554,test,NA,NA
-id_000192,train,3,daffodil
-id_000821,train,11,snowdrop
-id_001175,valid,15,tigerlily
-id_000758,train,10,windflower
-id_000126,valid,2,colts foot
-id_001166,valid,15,tigerlily
-id_000199,train,3,daffodil
+id_000192,train,3,lily valley
+id_000821,train,11,daisy
+id_001175,valid,15,buttercup
+id_000758,train,10,sunflower
+id_000126,valid,2,snowdrop
+id_001166,valid,15,buttercup
+id_000199,train,3,lily valley
 id_001269,test,NA,NA
-id_001041,train,14,corcus
-id_001304,train,17,cowslip
+id_001041,train,14,cowslip
+id_001304,train,17,pansy
 id_000800,test,NA,NA
-id_001307,train,17,cowslip
-id_000802,train,11,snowdrop
+id_001307,train,17,pansy
+id_000802,train,11,daisy
 id_001264,test,NA,NA
-id_000272,train,4,daisy
-id_000740,train,10,windflower
-id_000830,train,11,snowdrop
-id_000028,train,1,buttercup
-id_000809,train,11,snowdrop
-id_000322,train,5,dandelion
-id_000060,valid,1,buttercup
-id_000940,valid,12,lily valley
-id_000743,train,10,windflower
-id_001207,train,16,tulip
-id_000427,train,6,fritillary
-id_000187,train,3,daffodil
-id_000598,train,8,pansy
-id_001283,train,17,cowslip
+id_000272,train,4,bluebell
+id_000740,train,10,sunflower
+id_000830,train,11,daisy
+id_000028,train,1,daffodil
+id_000809,train,11,daisy
+id_000322,train,5,crocus
+id_000060,valid,1,daffodil
+id_000940,valid,12,colts foot
+id_000743,train,10,sunflower
+id_001207,train,16,windflower
+id_000427,train,6,iris
+id_000187,train,3,lily valley
+id_000598,train,8,tulip
+id_001283,train,17,pansy
 id_000636,test,NA,NA
-id_000497,train,7,iris
-id_001138,train,15,tigerlily
-id_000378,valid,5,dandelion
-id_000290,valid,4,daisy
-id_000343,train,5,dandelion
-id_000619,valid,8,pansy
+id_000497,train,7,tigerlily
+id_001138,train,15,buttercup
+id_000378,valid,5,crocus
+id_000290,valid,4,bluebell
+id_000343,train,5,crocus
+id_000619,valid,8,tulip
 id_000705,test,NA,NA
-id_000112,train,2,colts foot
-id_000568,train,8,pansy
-id_000738,train,10,windflower
-id_000736,train,10,windflower
-id_000265,train,4,daisy
-id_000297,valid,4,daisy
+id_000112,train,2,snowdrop
+id_000568,train,8,tulip
+id_000738,train,10,sunflower
+id_000736,train,10,sunflower
+id_000265,train,4,bluebell
+id_000297,valid,4,bluebell
 id_001182,test,NA,NA
-id_000081,train,2,colts foot
+id_000081,train,2,snowdrop
 id_000702,test,NA,NA
-id_000260,train,4,daisy
+id_000260,train,4,bluebell
 id_000399,test,NA,NA
-id_001161,valid,15,tigerlily
-id_000534,valid,7,iris
+id_001161,valid,15,buttercup
+id_000534,valid,7,tigerlily
 id_001029,test,NA,NA
-id_000114,train,2,colts foot
-id_000253,train,4,daisy
-id_001300,train,17,cowslip
-id_000043,valid,1,buttercup
-id_001234,train,16,tulip
+id_000114,train,2,snowdrop
+id_000253,train,4,bluebell
+id_001300,train,17,pansy
+id_000043,valid,1,daffodil
+id_001234,train,16,windflower
 id_000158,test,NA,NA
-id_000748,train,10,windflower
-id_001059,train,14,corcus
+id_000748,train,10,sunflower
+id_001059,train,14,cowslip
 id_000240,test,NA,NA
-id_000812,train,11,snowdrop
-id_000188,train,3,daffodil
+id_000812,train,11,daisy
+id_000188,train,3,lily valley
 id_000466,test,NA,NA
-id_000356,train,5,dandelion
-id_000686,valid,9,sunflower
-id_001310,train,17,cowslip
-id_000919,train,12,lily valley
+id_000356,train,5,crocus
+id_000686,valid,9,fritillary
+id_001310,train,17,pansy
+id_000919,train,12,colts foot
 id_000229,test,NA,NA
-id_000603,valid,8,pansy
-id_000984,train,13,bluebell
-id_001151,train,15,tigerlily
-id_000994,train,13,bluebell
-id_000047,valid,1,buttercup
-id_000498,train,7,iris
-id_000482,train,7,iris
-id_000652,train,9,sunflower
-id_000217,valid,3,daffodil
+id_000603,valid,8,tulip
+id_000984,train,13,dandelion
+id_001151,train,15,buttercup
+id_000994,train,13,dandelion
+id_000047,valid,1,daffodil
+id_000498,train,7,tigerlily
+id_000482,train,7,tigerlily
+id_000652,train,9,fritillary
+id_000217,valid,3,lily valley
 id_000880,test,NA,NA
 id_000145,test,NA,NA
-id_000757,train,10,windflower
-id_000816,train,11,snowdrop
-id_000022,train,1,buttercup
-id_001239,train,16,tulip
-id_001057,train,14,corcus
+id_000757,train,10,sunflower
+id_000816,train,11,daisy
+id_000022,train,1,daffodil
+id_001239,train,16,windflower
+id_001057,train,14,cowslip
 id_000718,test,NA,NA
 id_000480,test,NA,NA
-id_000768,valid,10,windflower
-id_000257,train,4,daisy
-id_000823,train,11,snowdrop
+id_000768,valid,10,sunflower
+id_000257,train,4,bluebell
+id_000823,train,11,daisy
 id_001193,test,NA,NA
-id_000929,valid,12,lily valley
+id_000929,valid,12,colts foot
 id_000879,test,NA,NA
-id_000985,train,13,bluebell
-id_000528,valid,7,iris
-id_000608,valid,8,pansy
-id_000261,train,4,daisy
+id_000985,train,13,dandelion
+id_000528,valid,7,tigerlily
+id_000608,valid,8,tulip
+id_000261,train,4,bluebell
 id_000559,test,NA,NA
-id_000041,valid,1,buttercup
-id_000435,train,6,fritillary
-id_000249,train,4,daisy
-id_000773,valid,10,windflower
+id_000041,valid,1,daffodil
+id_000435,train,6,iris
+id_000249,train,4,bluebell
+id_000773,valid,10,sunflower
 id_000635,test,NA,NA
-id_000139,valid,2,colts foot
-id_001201,train,16,tulip
+id_000139,valid,2,snowdrop
+id_001201,train,16,windflower
 id_001116,test,NA,NA
-id_000531,valid,7,iris
-id_000360,train,5,dandelion
-id_000570,train,8,pansy
-id_000363,valid,5,dandelion
-id_000345,train,5,dandelion
-id_000288,valid,4,daisy
-id_001327,valid,17,cowslip
-id_000085,train,2,colts foot
-id_000204,valid,3,daffodil
-id_001226,train,16,tulip
+id_000531,valid,7,tigerlily
+id_000360,train,5,crocus
+id_000570,train,8,tulip
+id_000363,valid,5,crocus
+id_000345,train,5,crocus
+id_000288,valid,4,bluebell
+id_001327,valid,17,pansy
+id_000085,train,2,snowdrop
+id_000204,valid,3,lily valley
+id_001226,train,16,windflower
 id_000784,test,NA,NA
-id_000529,valid,7,iris
-id_000926,valid,12,lily valley
-id_000350,train,5,dandelion
-id_000404,train,6,fritillary
+id_000529,valid,7,tigerlily
+id_000926,valid,12,colts foot
+id_000350,train,5,crocus
+id_000404,train,6,iris
 id_001200,test,NA,NA
-id_000700,valid,9,sunflower
-id_000287,valid,4,daisy
-id_000008,train,1,buttercup
-id_000847,valid,11,snowdrop
+id_000700,valid,9,fritillary
+id_000287,valid,4,bluebell
+id_000008,train,1,daffodil
+id_000847,valid,11,daisy
 id_001185,test,NA,NA
-id_001078,train,14,corcus
+id_001078,train,14,cowslip
 id_000548,test,NA,NA
 id_000400,test,NA,NA
-id_000842,valid,11,snowdrop
-id_000372,valid,5,dandelion
-id_000680,train,9,sunflower
-id_001008,valid,13,bluebell
-id_000643,train,9,sunflower
+id_000842,valid,11,daisy
+id_000372,valid,5,crocus
+id_000680,train,9,fritillary
+id_001008,valid,13,dandelion
+id_000643,train,9,fritillary
 id_001272,test,NA,NA
-id_000614,valid,8,pansy
-id_000594,train,8,pansy
-id_000495,train,7,iris
-id_000922,valid,12,lily valley
-id_000426,train,6,fritillary
-id_000913,train,12,lily valley
+id_000614,valid,8,tulip
+id_000594,train,8,tulip
+id_000495,train,7,tigerlily
+id_000922,valid,12,colts foot
+id_000426,train,6,iris
+id_000913,train,12,colts foot
 id_000707,test,NA,NA
-id_001180,valid,15,tigerlily
+id_001180,valid,15,buttercup
 id_000713,test,NA,NA
-id_000691,valid,9,sunflower
+id_000691,valid,9,fritillary
 id_000471,test,NA,NA
-id_000824,train,11,snowdrop
+id_000824,train,11,daisy
 id_000078,test,NA,NA
-id_000507,train,7,iris
-id_000284,valid,4,daisy
-id_000828,train,11,snowdrop
-id_001334,valid,17,cowslip
+id_000507,train,7,tigerlily
+id_000284,valid,4,bluebell
+id_000828,train,11,daisy
+id_001334,valid,17,pansy
 id_001268,test,NA,NA
-id_000780,valid,10,windflower
-id_001020,valid,13,bluebell
-id_000004,train,1,buttercup
+id_000780,valid,10,sunflower
+id_001020,valid,13,dandelion
+id_000004,train,1,daffodil
 id_000386,test,NA,NA
-id_000578,train,8,pansy
-id_000451,valid,6,fritillary
-id_001073,train,14,corcus
-id_001066,train,14,corcus
-id_000212,valid,3,daffodil
-id_000884,train,12,lily valley
-id_001015,valid,13,bluebell
-id_000033,train,1,buttercup
-id_000988,train,13,bluebell
-id_000731,train,10,windflower
+id_000578,train,8,tulip
+id_000451,valid,6,iris
+id_001073,train,14,cowslip
+id_001066,train,14,cowslip
+id_000212,valid,3,lily valley
+id_000884,train,12,colts foot
+id_001015,valid,13,dandelion
+id_000033,train,1,daffodil
+id_000988,train,13,dandelion
+id_000731,train,10,sunflower
 id_000472,test,NA,NA
-id_000032,train,1,buttercup
-id_000448,valid,6,fritillary
-id_000769,valid,10,windflower
-id_000177,train,3,daffodil
-id_001178,valid,15,tigerlily
+id_000032,train,1,daffodil
+id_000448,valid,6,iris
+id_000769,valid,10,sunflower
+id_000177,train,3,lily valley
+id_001178,valid,15,buttercup
 id_000711,test,NA,NA
-id_000027,train,1,buttercup
+id_000027,train,1,daffodil
 id_000719,test,NA,NA
-id_000914,train,12,lily valley
-id_000377,valid,5,dandelion
-id_001337,valid,17,cowslip
-id_001063,train,14,corcus
-id_000975,train,13,bluebell
+id_000914,train,12,colts foot
+id_000377,valid,5,crocus
+id_001337,valid,17,pansy
+id_001063,train,14,cowslip
+id_000975,train,13,dandelion
 id_000943,test,NA,NA
-id_000513,train,7,iris
+id_000513,train,7,tigerlily
 id_000787,test,NA,NA
 id_000785,test,NA,NA
 id_000953,test,NA,NA
 id_001103,test,NA,NA
-id_000760,train,10,windflower
+id_000760,train,10,sunflower
 id_000079,test,NA,NA
-id_001255,valid,16,tulip
-id_000930,valid,12,lily valley
-id_000263,train,4,daisy
-id_000136,valid,2,colts foot
-id_000579,train,8,pansy
-id_000270,train,4,daisy
+id_001255,valid,16,windflower
+id_000930,valid,12,colts foot
+id_000263,train,4,bluebell
+id_000136,valid,2,snowdrop
+id_000579,train,8,tulip
+id_000270,train,4,bluebell
 id_000944,test,NA,NA
-id_000662,train,9,sunflower
-id_000519,train,7,iris
-id_000124,valid,2,colts foot
+id_000662,train,9,fritillary
+id_000519,train,7,tigerlily
+id_000124,valid,2,snowdrop
 id_000799,test,NA,NA
-id_000099,train,2,colts foot
+id_000099,train,2,snowdrop
 id_000701,test,NA,NA
-id_001297,train,17,cowslip
+id_001297,train,17,pansy
 id_000948,test,NA,NA
-id_000419,train,6,fritillary
-id_001232,train,16,tulip
-id_001146,train,15,tigerlily
-id_000010,train,1,buttercup
-id_000996,train,13,bluebell
+id_000419,train,6,iris
+id_001232,train,16,windflower
+id_001146,train,15,buttercup
+id_000010,train,1,daffodil
+id_000996,train,13,dandelion
 id_001025,test,NA,NA
-id_000251,train,4,daisy
-id_001245,valid,16,tulip
+id_000251,train,4,bluebell
+id_001245,valid,16,windflower
 id_000875,test,NA,NA
-id_000122,valid,2,colts foot
-id_001137,train,15,tigerlily
-id_000527,valid,7,iris
-id_000611,valid,8,pansy
-id_001309,train,17,cowslip
+id_000122,valid,2,snowdrop
+id_001137,train,15,buttercup
+id_000527,valid,7,tigerlily
+id_000611,valid,8,tulip
+id_001309,train,17,pansy
 id_000798,test,NA,NA
-id_000765,valid,10,windflower
-id_000096,train,2,colts foot
-id_000357,train,5,dandelion
-id_001081,valid,14,corcus
-id_001209,train,16,tulip
+id_000765,valid,10,sunflower
+id_000096,train,2,snowdrop
+id_000357,train,5,crocus
+id_001081,valid,14,cowslip
+id_001209,train,16,windflower
 id_000621,test,NA,NA
-id_000102,train,2,colts foot
-id_000779,valid,10,windflower
-id_000841,valid,11,snowdrop
-id_000195,train,3,daffodil
-id_000294,valid,4,daisy
+id_000102,train,2,snowdrop
+id_000779,valid,10,sunflower
+id_000841,valid,11,daisy
+id_000195,train,3,lily valley
+id_000294,valid,4,bluebell
 id_000954,test,NA,NA
-id_000134,valid,2,colts foot
-id_000660,train,9,sunflower
-id_000983,train,13,bluebell
-id_000196,train,3,daffodil
-id_000481,train,7,iris
+id_000134,valid,2,snowdrop
+id_000660,train,9,fritillary
+id_000983,train,13,dandelion
+id_000196,train,3,lily valley
+id_000481,train,7,tigerlily
 id_000870,test,NA,NA
 id_000542,test,NA,NA
-id_001285,train,17,cowslip
+id_001285,train,17,pansy
 id_000152,test,NA,NA
-id_001097,valid,14,corcus
-id_000193,train,3,daffodil
-id_000664,train,9,sunflower
+id_001097,valid,14,cowslip
+id_000193,train,3,lily valley
+id_000664,train,9,fritillary
 id_000625,test,NA,NA
-id_001223,train,16,tulip
-id_000567,train,8,pansy
-id_000885,train,12,lily valley
-id_001235,train,16,tulip
-id_000526,valid,7,iris
-id_001156,train,15,tigerlily
-id_000298,valid,4,daisy
+id_001223,train,16,windflower
+id_000567,train,8,tulip
+id_000885,train,12,colts foot
+id_001235,train,16,windflower
+id_000526,valid,7,tigerlily
+id_001156,train,15,buttercup
+id_000298,valid,4,bluebell
 id_001358,test,NA,NA
-id_000722,train,10,windflower
-id_000132,valid,2,colts foot
+id_000722,train,10,sunflower
+id_000132,valid,2,snowdrop
 id_000958,test,NA,NA
-id_000681,valid,9,sunflower
-id_000299,valid,4,daisy
-id_000667,train,9,sunflower
-id_000441,valid,6,fritillary
-id_001238,train,16,tulip
-id_000699,valid,9,sunflower
-id_001168,valid,15,tigerlily
+id_000681,valid,9,fritillary
+id_000299,valid,4,bluebell
+id_000667,train,9,fritillary
+id_000441,valid,6,iris
+id_001238,train,16,windflower
+id_000699,valid,9,fritillary
+id_001168,valid,15,buttercup
 id_000946,test,NA,NA
-id_001254,valid,16,tulip
+id_001254,valid,16,windflower
 id_000387,test,NA,NA
-id_000371,valid,5,dandelion
-id_000721,train,10,windflower
+id_000371,valid,5,crocus
+id_000721,train,10,sunflower
 id_001192,test,NA,NA
-id_000890,train,12,lily valley
-id_000211,valid,3,daffodil
-id_000881,train,12,lily valley
-id_000993,train,13,bluebell
-id_000735,train,10,windflower
-id_000500,train,7,iris
-id_000264,train,4,daisy
-id_000917,train,12,lily valley
+id_000890,train,12,colts foot
+id_000211,valid,3,lily valley
+id_000881,train,12,colts foot
+id_000993,train,13,dandelion
+id_000735,train,10,sunflower
+id_000500,train,7,tigerlily
+id_000264,train,4,bluebell
+id_000917,train,12,colts foot
 id_000070,test,NA,NA
-id_000597,train,8,pansy
-id_001332,valid,17,cowslip
-id_000245,train,4,daisy
+id_000597,train,8,tulip
+id_001332,valid,17,pansy
+id_000245,train,4,bluebell
 id_000225,test,NA,NA
-id_000021,train,1,buttercup
-id_001227,train,16,tulip
-id_000888,train,12,lily valley
-id_001019,valid,13,bluebell
-id_001122,train,15,tigerlily
-id_000379,valid,5,dandelion
-id_000026,train,1,buttercup
+id_000021,train,1,daffodil
+id_001227,train,16,windflower
+id_000888,train,12,colts foot
+id_001019,valid,13,dandelion
+id_001122,train,15,buttercup
+id_000379,valid,5,crocus
+id_000026,train,1,daffodil
 id_000543,test,NA,NA
-id_000972,train,13,bluebell
-id_000019,train,1,buttercup
+id_000972,train,13,dandelion
+id_000019,train,1,daffodil
 id_000558,test,NA,NA
 id_001101,test,NA,NA
-id_000125,valid,2,colts foot
-id_000910,train,12,lily valley
+id_000125,valid,2,snowdrop
+id_000910,train,12,colts foot
 id_000952,test,NA,NA
-id_000133,valid,2,colts foot
+id_000133,valid,2,snowdrop
 id_000629,test,NA,NA
 id_000551,test,NA,NA
-id_001313,train,17,cowslip
-id_001167,valid,15,tigerlily
-id_000916,train,12,lily valley
-id_001252,valid,16,tulip
-id_000807,train,11,snowdrop
-id_000038,train,1,buttercup
-id_000207,valid,3,daffodil
-id_000977,train,13,bluebell
+id_001313,train,17,pansy
+id_001167,valid,15,buttercup
+id_000916,train,12,colts foot
+id_001252,valid,16,windflower
+id_000807,train,11,daisy
+id_000038,train,1,daffodil
+id_000207,valid,3,lily valley
+id_000977,train,13,dandelion
 id_000865,test,NA,NA
-id_001292,train,17,cowslip
+id_001292,train,17,pansy
 id_001349,test,NA,NA
-id_000006,train,1,buttercup
+id_000006,train,1,daffodil
 id_000790,test,NA,NA
-id_000220,valid,3,daffodil
-id_001336,valid,17,cowslip
-id_000489,train,7,iris
+id_000220,valid,3,lily valley
+id_001336,valid,17,pansy
+id_000489,train,7,tigerlily
 id_001117,test,NA,NA
-id_000453,valid,6,fritillary
+id_000453,valid,6,iris
 id_000630,test,NA,NA
-id_000429,train,6,fritillary
+id_000429,train,6,iris
 id_000720,test,NA,NA
-id_000586,train,8,pansy
+id_000586,train,8,tulip
 id_000381,test,NA,NA
-id_000321,train,5,dandelion
-id_000275,train,4,daisy
+id_000321,train,5,crocus
+id_000275,train,4,bluebell
 id_000156,test,NA,NA
-id_000001,train,1,buttercup
-id_001080,train,14,corcus
-id_000979,train,13,bluebell
-id_000921,valid,12,lily valley
+id_000001,train,1,daffodil
+id_001080,train,14,cowslip
+id_000979,train,13,dandelion
+id_000921,valid,12,colts foot
 id_000157,test,NA,NA
-id_000056,valid,1,buttercup
-id_000276,train,4,daisy
+id_000056,valid,1,daffodil
+id_000276,train,4,bluebell
 id_000781,test,NA,NA
-id_000005,train,1,buttercup
-id_000612,valid,8,pansy
+id_000005,train,1,daffodil
+id_000612,valid,8,tulip
 id_000383,test,NA,NA
-id_000928,valid,12,lily valley
-id_000502,train,7,iris
-id_000086,train,2,colts foot
-id_000103,train,2,colts foot
-id_000029,train,1,buttercup
-id_000974,train,13,bluebell
-id_000759,train,10,windflower
-id_001053,train,14,corcus
-id_000818,train,11,snowdrop
+id_000928,valid,12,colts foot
+id_000502,train,7,tigerlily
+id_000086,train,2,snowdrop
+id_000103,train,2,snowdrop
+id_000029,train,1,daffodil
+id_000974,train,13,dandelion
+id_000759,train,10,sunflower
+id_001053,train,14,cowslip
+id_000818,train,11,daisy
 id_001115,test,NA,NA
-id_000355,train,5,dandelion
-id_000493,train,7,iris
-id_000030,train,1,buttercup
+id_000355,train,5,crocus
+id_000493,train,7,tigerlily
+id_000030,train,1,daffodil
 id_001346,test,NA,NA
-id_000658,train,9,sunflower
-id_000859,valid,11,snowdrop
+id_000658,train,9,fritillary
+id_000859,valid,11,daisy
 id_000319,test,NA,NA
-id_001302,train,17,cowslip
-id_001017,valid,13,bluebell
+id_001302,train,17,pansy
+id_001017,valid,13,dandelion
 id_000144,test,NA,NA
-id_001096,valid,14,corcus
-id_001177,valid,15,tigerlily
+id_001096,valid,14,cowslip
+id_001177,valid,15,buttercup
 id_001027,test,NA,NA
 id_000390,test,NA,NA
-id_000679,train,9,sunflower
-id_001217,train,16,tulip
-id_000589,train,8,pansy
-id_001250,valid,16,tulip
-id_001087,valid,14,corcus
-id_001206,train,16,tulip
-id_001127,train,15,tigerlily
-id_000456,valid,6,fritillary
-id_000605,valid,8,pansy
+id_000679,train,9,fritillary
+id_001217,train,16,windflower
+id_000589,train,8,tulip
+id_001250,valid,16,windflower
+id_001087,valid,14,cowslip
+id_001206,train,16,windflower
+id_001127,train,15,buttercup
+id_000456,valid,6,iris
+id_000605,valid,8,tulip
 id_000314,test,NA,NA
-id_000931,valid,12,lily valley
+id_000931,valid,12,colts foot
 id_000395,test,NA,NA
-id_000533,valid,7,iris
-id_000364,valid,5,dandelion
-id_001321,valid,17,cowslip
-id_000088,train,2,colts foot
+id_000533,valid,7,tigerlily
+id_000364,valid,5,crocus
+id_001321,valid,17,pansy
+id_000088,train,2,snowdrop
 id_000639,test,NA,NA
-id_000023,train,1,buttercup
-id_000172,train,3,daffodil
-id_000190,train,3,daffodil
-id_000173,train,3,daffodil
-id_000654,train,9,sunflower
-id_000661,train,9,sunflower
-id_001242,valid,16,tulip
-id_000338,train,5,dandelion
-id_000920,train,12,lily valley
-id_001324,valid,17,cowslip
-id_001287,train,17,cowslip
-id_000641,train,9,sunflower
-id_000241,train,4,daisy
-id_000905,train,12,lily valley
+id_000023,train,1,daffodil
+id_000172,train,3,lily valley
+id_000190,train,3,lily valley
+id_000173,train,3,lily valley
+id_000654,train,9,fritillary
+id_000661,train,9,fritillary
+id_001242,valid,16,windflower
+id_000338,train,5,crocus
+id_000920,train,12,colts foot
+id_001324,valid,17,pansy
+id_001287,train,17,pansy
+id_000641,train,9,fritillary
+id_000241,train,4,bluebell
+id_000905,train,12,colts foot
 id_000951,test,NA,NA
-id_000804,train,11,snowdrop
-id_000657,train,9,sunflower
-id_000894,train,12,lily valley
+id_000804,train,11,daisy
+id_000657,train,9,fritillary
+id_000894,train,12,colts foot
 id_000717,test,NA,NA
-id_001123,train,15,tigerlily
-id_000051,valid,1,buttercup
-id_000924,valid,12,lily valley
-id_000120,train,2,colts foot
-id_001155,train,15,tigerlily
-id_001072,train,14,corcus
-id_000351,train,5,dandelion
+id_001123,train,15,buttercup
+id_000051,valid,1,daffodil
+id_000924,valid,12,colts foot
+id_000120,train,2,snowdrop
+id_001155,train,15,buttercup
+id_001072,train,14,cowslip
+id_000351,train,5,crocus
 id_000389,test,NA,NA
-id_000673,train,9,sunflower
-id_000992,train,13,bluebell
-id_001296,train,17,cowslip
-id_000169,train,3,daffodil
-id_001012,valid,13,bluebell
-id_000058,valid,1,buttercup
-id_001121,train,15,tigerlily
-id_000588,train,8,pansy
-id_001014,valid,13,bluebell
-id_000267,train,4,daisy
-id_000649,train,9,sunflower
-id_001133,train,15,tigerlily
+id_000673,train,9,fritillary
+id_000992,train,13,dandelion
+id_001296,train,17,pansy
+id_000169,train,3,lily valley
+id_001012,valid,13,dandelion
+id_000058,valid,1,daffodil
+id_001121,train,15,buttercup
+id_000588,train,8,tulip
+id_001014,valid,13,dandelion
+id_000267,train,4,bluebell
+id_000649,train,9,fritillary
+id_001133,train,15,buttercup
 id_000061,test,NA,NA
-id_000690,valid,9,sunflower
+id_000690,valid,9,fritillary
 id_000151,test,NA,NA
-id_000724,train,10,windflower
+id_000724,train,10,sunflower
 id_000793,test,NA,NA
-id_000682,valid,9,sunflower
-id_000123,valid,2,colts foot
-id_000801,train,11,snowdrop
-id_001222,train,16,tulip
-id_001213,train,16,tulip
-id_000162,train,3,daffodil
-id_000728,train,10,windflower
+id_000682,valid,9,fritillary
+id_000123,valid,2,snowdrop
+id_000801,train,11,daisy
+id_001222,train,16,windflower
+id_001213,train,16,windflower
+id_000162,train,3,lily valley
+id_000728,train,10,sunflower
 id_000461,test,NA,NA
 id_001341,test,NA,NA
-id_000646,train,9,sunflower
+id_000646,train,9,fritillary
 id_000232,test,NA,NA
-id_000899,train,12,lily valley
-id_000444,valid,6,fritillary
-id_000575,train,8,pansy
+id_000899,train,12,colts foot
+id_000444,valid,6,iris
+id_000575,train,8,tulip
 id_000794,test,NA,NA
-id_000246,train,4,daisy
-id_000138,valid,2,colts foot
-id_000341,train,5,dandelion
-id_000741,train,10,windflower
-id_000014,train,1,buttercup
-id_000179,train,3,daffodil
-id_000205,valid,3,daffodil
-id_001152,train,15,tigerlily
-id_000853,valid,11,snowdrop
-id_001286,train,17,cowslip
-id_000858,valid,11,snowdrop
-id_001251,valid,16,tulip
+id_000246,train,4,bluebell
+id_000138,valid,2,snowdrop
+id_000341,train,5,crocus
+id_000741,train,10,sunflower
+id_000014,train,1,daffodil
+id_000179,train,3,lily valley
+id_000205,valid,3,lily valley
+id_001152,train,15,buttercup
+id_000853,valid,11,daisy
+id_001286,train,17,pansy
+id_000858,valid,11,daisy
+id_001251,valid,16,windflower
 id_000866,test,NA,NA
-id_000693,valid,9,sunflower
-id_000813,train,11,snowdrop
+id_000693,valid,9,fritillary
+id_000813,train,11,daisy
 id_000302,test,NA,NA
-id_000688,valid,9,sunflower
-id_000046,valid,1,buttercup
-id_001203,train,16,tulip
+id_000688,valid,9,fritillary
+id_000046,valid,1,daffodil
+id_001203,train,16,windflower
 id_000873,test,NA,NA
 id_000703,test,NA,NA
-id_000774,valid,10,windflower
-id_001005,valid,13,bluebell
-id_000057,valid,1,buttercup
+id_000774,valid,10,sunflower
+id_001005,valid,13,dandelion
+id_000057,valid,1,daffodil
 id_000955,test,NA,NA
-id_000174,train,3,daffodil
-id_001308,train,17,cowslip
-id_001002,valid,13,bluebell
-id_000968,train,13,bluebell
-id_001301,train,17,cowslip
-id_000907,train,12,lily valley
+id_000174,train,3,lily valley
+id_001308,train,17,pansy
+id_001002,valid,13,dandelion
+id_000968,train,13,dandelion
+id_001301,train,17,pansy
+id_000907,train,12,colts foot
 id_001359,test,NA,NA
 id_000317,test,NA,NA
-id_000771,valid,10,windflower
-id_000911,train,12,lily valley
-id_001149,train,15,tigerlily
+id_000771,valid,10,sunflower
+id_000911,train,12,colts foot
+id_001149,train,15,buttercup
 id_000874,test,NA,NA
-id_000908,train,12,lily valley
-id_000366,valid,5,dandelion
+id_000908,train,12,colts foot
+id_000366,valid,5,crocus
 id_000074,test,NA,NA
-id_001076,train,14,corcus
-id_000330,train,5,dandelion
+id_001076,train,14,cowslip
+id_000330,train,5,crocus
 id_000710,test,NA,NA
-id_001135,train,15,tigerlily
-id_001164,valid,15,tigerlily
+id_001135,train,15,buttercup
+id_001164,valid,15,buttercup
 id_001271,test,NA,NA
-id_001148,train,15,tigerlily
-id_000618,valid,8,pansy
-id_000838,train,11,snowdrop
-id_000015,train,1,buttercup
-id_000971,train,13,bluebell
+id_001148,train,15,buttercup
+id_000618,valid,8,tulip
+id_000838,train,11,daisy
+id_000015,train,1,daffodil
+id_000971,train,13,dandelion
 id_000704,test,NA,NA
-id_001004,valid,13,bluebell
-id_000601,valid,8,pansy
-id_001001,valid,13,bluebell
-id_000368,valid,5,dandelion
+id_001004,valid,13,dandelion
+id_000601,valid,8,tulip
+id_001001,valid,13,dandelion
+id_000368,valid,5,crocus
 id_000475,test,NA,NA
-id_000436,train,6,fritillary
-id_000855,valid,11,snowdrop
-id_000035,train,1,buttercup
-id_001282,train,17,cowslip
-id_000262,train,4,daisy
-id_000923,valid,12,lily valley
-id_000739,train,10,windflower
+id_000436,train,6,iris
+id_000855,valid,11,daisy
+id_000035,train,1,daffodil
+id_001282,train,17,pansy
+id_000262,train,4,bluebell
+id_000923,valid,12,colts foot
+id_000739,train,10,sunflower
 id_000628,test,NA,NA
-id_000361,valid,5,dandelion
+id_000361,valid,5,crocus
 id_000942,test,NA,NA
-id_000962,train,13,bluebell
-id_000937,valid,12,lily valley
+id_000962,train,13,dandelion
+id_000937,valid,12,colts foot
 id_001265,test,NA,NA
 id_000470,test,NA,NA
 id_001181,test,NA,NA
-id_000324,train,5,dandelion
-id_000258,train,4,daisy
-id_000538,valid,7,iris
-id_000490,train,7,iris
-id_000672,train,9,sunflower
-id_000856,valid,11,snowdrop
-id_000487,train,7,iris
-id_000424,train,6,fritillary
-id_000761,valid,10,windflower
+id_000324,train,5,crocus
+id_000258,train,4,bluebell
+id_000538,valid,7,tigerlily
+id_000490,train,7,tigerlily
+id_000672,train,9,fritillary
+id_000856,valid,11,daisy
+id_000487,train,7,tigerlily
+id_000424,train,6,iris
+id_000761,valid,10,sunflower
 id_000959,test,NA,NA
 id_000384,test,NA,NA
-id_001241,valid,16,tulip
-id_000515,train,7,iris
-id_000969,train,13,bluebell
+id_001241,valid,16,windflower
+id_000515,train,7,tigerlily
+id_000969,train,13,dandelion
 id_000469,test,NA,NA
-id_000247,train,4,daisy
+id_000247,train,4,bluebell
 id_001279,test,NA,NA
-id_001212,train,16,tulip
-id_001165,valid,15,tigerlily
-id_000762,valid,10,windflower
+id_001212,train,16,windflower
+id_001165,valid,15,buttercup
+id_000762,valid,10,sunflower
 id_000947,test,NA,NA
-id_001011,valid,13,bluebell
-id_001216,train,16,tulip
-id_000973,train,13,bluebell
+id_001011,valid,13,dandelion
+id_001216,train,16,windflower
+id_000973,train,13,dandelion
 id_000941,test,NA,NA
-id_000171,train,3,daffodil
-id_000244,train,4,daisy
-id_000375,valid,5,dandelion
+id_000171,train,3,lily valley
+id_000244,train,4,bluebell
+id_000375,valid,5,crocus
 id_000066,test,NA,NA
-id_000590,train,8,pansy
-id_000496,train,7,iris
-id_000034,train,1,buttercup
-id_000164,train,3,daffodil
-id_000420,train,6,fritillary
-id_000286,valid,4,daisy
+id_000590,train,8,tulip
+id_000496,train,7,tigerlily
+id_000034,train,1,daffodil
+id_000164,train,3,lily valley
+id_000420,train,6,iris
+id_000286,valid,4,bluebell
 id_000237,test,NA,NA
-id_000602,valid,8,pansy
-id_000591,train,8,pansy
-id_000417,train,6,fritillary
-id_000003,train,1,buttercup
-id_000170,train,3,daffodil
-id_000609,valid,8,pansy
-id_000458,valid,6,fritillary
-id_000747,train,10,windflower
-id_000749,train,10,windflower
+id_000602,valid,8,tulip
+id_000591,train,8,tulip
+id_000417,train,6,iris
+id_000003,train,1,daffodil
+id_000170,train,3,lily valley
+id_000609,valid,8,tulip
+id_000458,valid,6,iris
+id_000747,train,10,sunflower
+id_000749,train,10,sunflower
 id_000956,test,NA,NA
 id_001118,test,NA,NA
-id_000571,train,8,pansy
-id_000191,train,3,daffodil
-id_000439,train,6,fritillary
-id_000198,train,3,daffodil
-id_000685,valid,9,sunflower
+id_000571,train,8,tulip
+id_000191,train,3,lily valley
+id_000439,train,6,iris
+id_000198,train,3,lily valley
+id_000685,valid,9,fritillary
 id_000549,test,NA,NA
 id_001275,test,NA,NA
-id_000104,train,2,colts foot
-id_000998,train,13,bluebell
+id_000104,train,2,snowdrop
+id_000998,train,13,dandelion
 id_001194,test,NA,NA
 id_000788,test,NA,NA
-id_000883,train,12,lily valley
-id_000092,train,2,colts foot
-id_001306,train,17,cowslip
-id_000814,train,11,snowdrop
-id_000803,train,11,snowdrop
+id_000883,train,12,colts foot
+id_000092,train,2,snowdrop
+id_001306,train,17,pansy
+id_000814,train,11,daisy
+id_000803,train,11,daisy
 id_000316,test,NA,NA
 id_001113,test,NA,NA
-id_000182,train,3,daffodil
-id_000094,train,2,colts foot
-id_001093,valid,14,corcus
-id_000980,train,13,bluebell
-id_000982,train,13,bluebell
+id_000182,train,3,lily valley
+id_000094,train,2,snowdrop
+id_001093,valid,14,cowslip
+id_000980,train,13,dandelion
+id_000982,train,13,dandelion
 id_001343,test,NA,NA
-id_000902,train,12,lily valley
-id_001317,train,17,cowslip
+id_000902,train,12,colts foot
+id_001317,train,17,pansy
 id_000069,test,NA,NA
-id_000901,train,12,lily valley
-id_000216,valid,3,daffodil
+id_000901,train,12,colts foot
+id_000216,valid,3,lily valley
 id_000714,test,NA,NA
-id_000756,train,10,windflower
-id_000584,train,8,pansy
-id_001291,train,17,cowslip
+id_000756,train,10,sunflower
+id_000584,train,8,tulip
+id_001291,train,17,pansy
 id_000950,test,NA,NA
-id_000202,valid,3,daffodil
-id_000443,valid,6,fritillary
-id_000485,train,7,iris
-id_000675,train,9,sunflower
-id_000963,train,13,bluebell
+id_000202,valid,3,lily valley
+id_000443,valid,6,iris
+id_000485,train,7,tigerlily
+id_000675,train,9,fritillary
+id_000963,train,13,dandelion
 id_001119,test,NA,NA
-id_001085,valid,14,corcus
-id_000932,valid,12,lily valley
-id_001237,train,16,tulip
-id_000606,valid,8,pansy
-id_000431,train,6,fritillary
-id_000242,train,4,daisy
+id_001085,valid,14,cowslip
+id_000932,valid,12,colts foot
+id_001237,train,16,windflower
+id_000606,valid,8,tulip
+id_000431,train,6,iris
+id_000242,train,4,bluebell
 id_000318,test,NA,NA
-id_000935,valid,12,lily valley
-id_001051,train,14,corcus
-id_000755,train,10,windflower
+id_000935,valid,12,colts foot
+id_001051,train,14,cowslip
+id_000755,train,10,sunflower
 id_000154,test,NA,NA
-id_000408,train,6,fritillary
+id_000408,train,6,iris
 id_001351,test,NA,NA
-id_000904,train,12,lily valley
-id_001174,valid,15,tigerlily
-id_000449,valid,6,fritillary
-id_001089,valid,14,corcus
-id_000540,valid,7,iris
+id_000904,train,12,colts foot
+id_001174,valid,15,buttercup
+id_000449,valid,6,iris
+id_001089,valid,14,cowslip
+id_000540,valid,7,tigerlily
 id_000468,test,NA,NA
-id_000666,train,9,sunflower
+id_000666,train,9,fritillary
 id_001360,test,NA,NA
 id_000062,test,NA,NA
 id_001197,test,NA,NA
-id_000214,valid,3,daffodil
-id_000369,valid,5,dandelion
-id_001100,valid,14,corcus
-id_000486,train,7,iris
-id_000772,valid,10,windflower
-id_000849,valid,11,snowdrop
-id_000012,train,1,buttercup
+id_000214,valid,3,lily valley
+id_000369,valid,5,crocus
+id_001100,valid,14,cowslip
+id_000486,train,7,tigerlily
+id_000772,valid,10,sunflower
+id_000849,valid,11,daisy
+id_000012,train,1,daffodil
 id_001348,test,NA,NA
-id_000845,valid,11,snowdrop
-id_001140,train,15,tigerlily
-id_000837,train,11,snowdrop
-id_000925,valid,12,lily valley
-id_000459,valid,6,fritillary
-id_000563,train,8,pansy
+id_000845,valid,11,daisy
+id_001140,train,15,buttercup
+id_000837,train,11,daisy
+id_000925,valid,12,colts foot
+id_000459,valid,6,iris
+id_000563,train,8,tulip
 id_001105,test,NA,NA
-id_000037,train,1,buttercup
-id_001095,valid,14,corcus
+id_000037,train,1,daffodil
+id_001095,valid,14,cowslip
 id_001114,test,NA,NA
-id_000767,valid,10,windflower
+id_000767,valid,10,sunflower
 id_000792,test,NA,NA
-id_001064,train,14,corcus
+id_001064,train,14,cowslip
 id_001189,test,NA,NA
 id_000869,test,NA,NA
-id_000281,valid,4,daisy
-id_001065,train,14,corcus
+id_000281,valid,4,bluebell
+id_001065,train,14,cowslip
 id_000479,test,NA,NA
-id_000503,train,7,iris
-id_000964,train,13,bluebell
-id_001154,train,15,tigerlily
-id_001247,valid,16,tulip
-id_000042,valid,1,buttercup
-id_000509,train,7,iris
-id_000805,train,11,snowdrop
-id_001069,train,14,corcus
+id_000503,train,7,tigerlily
+id_000964,train,13,dandelion
+id_001154,train,15,buttercup
+id_001247,valid,16,windflower
+id_000042,valid,1,daffodil
+id_000509,train,7,tigerlily
+id_000805,train,11,daisy
+id_001069,train,14,cowslip
 id_001184,test,NA,NA
-id_000266,train,4,daisy
+id_000266,train,4,bluebell
 id_000462,test,NA,NA
-id_000292,valid,4,daisy
-id_000194,train,3,daffodil
-id_001044,train,14,corcus
-id_000252,train,4,daisy
-id_001160,train,15,tigerlily
-id_000505,train,7,iris
-id_001058,train,14,corcus
-id_001256,valid,16,tulip
+id_000292,valid,4,bluebell
+id_000194,train,3,lily valley
+id_001044,train,14,cowslip
+id_000252,train,4,bluebell
+id_001160,train,15,buttercup
+id_000505,train,7,tigerlily
+id_001058,train,14,cowslip
+id_001256,valid,16,windflower
 id_000153,test,NA,NA
 id_001195,test,NA,NA
-id_001228,train,16,tulip
+id_001228,train,16,windflower
 id_000222,test,NA,NA
-id_000753,train,10,windflower
-id_000696,valid,9,sunflower
-id_000832,train,11,snowdrop
-id_001136,train,15,tigerlily
+id_000753,train,10,sunflower
+id_000696,valid,9,fritillary
+id_000832,train,11,daisy
+id_001136,train,15,buttercup
 id_001270,test,NA,NA
-id_000250,train,4,daisy
+id_000250,train,4,bluebell
 id_000623,test,NA,NA
-id_000683,valid,9,sunflower
-id_000727,train,10,windflower
+id_000683,valid,9,fritillary
+id_000727,train,10,sunflower
 id_000224,test,NA,NA
-id_000990,train,13,bluebell
-id_000573,train,8,pansy
-id_000663,train,9,sunflower
-id_001338,valid,17,cowslip
+id_000990,train,13,dandelion
+id_000573,train,8,tulip
+id_000663,train,9,fritillary
+id_001338,valid,17,pansy
 id_000876,test,NA,NA
-id_000090,train,2,colts foot
-id_000532,valid,7,iris
-id_001060,train,14,corcus
+id_000090,train,2,snowdrop
+id_000532,valid,7,tigerlily
+id_001060,train,14,cowslip
 id_000310,test,NA,NA
-id_000653,train,9,sunflower
-id_001003,valid,13,bluebell
-id_000587,train,8,pansy
-id_000407,train,6,fritillary
-id_000208,valid,3,daffodil
-id_000410,train,6,fritillary
+id_000653,train,9,fritillary
+id_001003,valid,13,dandelion
+id_000587,train,8,tulip
+id_000407,train,6,iris
+id_000208,valid,3,lily valley
+id_000410,train,6,iris
 id_001031,test,NA,NA
 id_000221,test,NA,NA
-id_000328,train,5,dandelion
-id_000564,train,8,pansy
+id_000328,train,5,crocus
+id_000564,train,8,tulip
 id_001112,test,NA,NA
-id_000348,train,5,dandelion
-id_000412,train,6,fritillary
-id_000418,train,6,fritillary
+id_000348,train,5,crocus
+id_000412,train,6,iris
+id_000418,train,6,iris
 id_001276,test,NA,NA
-id_000897,train,12,lily valley
-id_001082,valid,14,corcus
-id_000822,train,11,snowdrop
-id_000562,train,8,pansy
-id_000326,train,5,dandelion
-id_001071,train,14,corcus
-id_000989,train,13,bluebell
-id_000572,train,8,pansy
-id_000820,train,11,snowdrop
-id_000525,valid,7,iris
+id_000897,train,12,colts foot
+id_001082,valid,14,cowslip
+id_000822,train,11,daisy
+id_000562,train,8,tulip
+id_000326,train,5,crocus
+id_001071,train,14,cowslip
+id_000989,train,13,dandelion
+id_000572,train,8,tulip
+id_000820,train,11,daisy
+id_000525,valid,7,tigerlily
 id_001354,test,NA,NA
 id_000067,test,NA,NA
-id_000406,train,6,fritillary
-id_001303,train,17,cowslip
-id_000289,valid,4,daisy
+id_000406,train,6,iris
+id_001303,train,17,pansy
+id_000289,valid,4,bluebell
 id_000307,test,NA,NA
-id_001169,valid,15,tigerlily
-id_000752,train,10,windflower
+id_001169,valid,15,buttercup
+id_000752,train,10,sunflower
 id_000231,test,NA,NA
 id_001036,test,NA,NA
 id_000868,test,NA,NA
-id_000582,train,8,pansy
-id_000089,train,2,colts foot
-id_001202,train,16,tulip
-id_000521,valid,7,iris
+id_000582,train,8,tulip
+id_000089,train,2,snowdrop
+id_001202,train,16,windflower
+id_000521,valid,7,tigerlily
 id_000063,test,NA,NA
-id_000055,valid,1,buttercup
+id_000055,valid,1,daffodil
 id_001186,test,NA,NA
 id_001196,test,NA,NA
-id_001295,train,17,cowslip
-id_000024,train,1,buttercup
-id_001240,train,16,tulip
-id_000206,valid,3,daffodil
-id_001172,valid,15,tigerlily
+id_001295,train,17,pansy
+id_000024,train,1,daffodil
+id_001240,train,16,windflower
+id_000206,valid,3,lily valley
+id_001172,valid,15,buttercup
 id_000392,test,NA,NA
-id_000165,train,3,daffodil
+id_000165,train,3,lily valley
 id_000634,test,NA,NA
-id_000647,train,9,sunflower
-id_000976,train,13,bluebell
+id_000647,train,9,fritillary
+id_000976,train,13,dandelion
 id_000147,test,NA,NA
-id_001319,train,17,cowslip
-id_000999,train,13,bluebell
-id_000184,train,3,daffodil
-id_000566,train,8,pansy
-id_000995,train,13,bluebell
-id_001328,valid,17,cowslip
-id_000365,valid,5,dandelion
-id_001211,train,16,tulip
-id_001163,valid,15,tigerlily
-id_001290,train,17,cowslip
-id_000536,valid,7,iris
-id_000737,train,10,windflower
-id_001068,train,14,corcus
-id_000359,train,5,dandelion
+id_001319,train,17,pansy
+id_000999,train,13,dandelion
+id_000184,train,3,lily valley
+id_000566,train,8,tulip
+id_000995,train,13,dandelion
+id_001328,valid,17,pansy
+id_000365,valid,5,crocus
+id_001211,train,16,windflower
+id_001163,valid,15,buttercup
+id_001290,train,17,pansy
+id_000536,valid,7,tigerlily
+id_000737,train,10,sunflower
+id_001068,train,14,cowslip
+id_000359,train,5,crocus
 id_000304,test,NA,NA
-id_000806,train,11,snowdrop
-id_001130,train,15,tigerlily
-id_000013,train,1,buttercup
-id_001225,train,16,tulip
-id_001284,train,17,cowslip
-id_001006,valid,13,bluebell
-id_000677,train,9,sunflower
-id_000893,train,12,lily valley
-id_000415,train,6,fritillary
-id_001299,train,17,cowslip
-id_000295,valid,4,daisy
-id_000115,train,2,colts foot
+id_000806,train,11,daisy
+id_001130,train,15,buttercup
+id_000013,train,1,daffodil
+id_001225,train,16,windflower
+id_001284,train,17,pansy
+id_001006,valid,13,dandelion
+id_000677,train,9,fritillary
+id_000893,train,12,colts foot
+id_000415,train,6,iris
+id_001299,train,17,pansy
+id_000295,valid,4,bluebell
+id_000115,train,2,snowdrop
 id_000394,test,NA,NA
-id_001179,valid,15,tigerlily
-id_000016,train,1,buttercup
-id_000176,train,3,daffodil
-id_000514,train,7,iris
-id_001132,train,15,tigerlily
-id_001077,train,14,corcus
-id_000442,valid,6,fritillary
-id_000131,valid,2,colts foot
+id_001179,valid,15,buttercup
+id_000016,train,1,daffodil
+id_000176,train,3,lily valley
+id_000514,train,7,tigerlily
+id_001132,train,15,buttercup
+id_001077,train,14,cowslip
+id_000442,valid,6,iris
+id_000131,valid,2,snowdrop
 id_000072,test,NA,NA
-id_000201,valid,3,daffodil
+id_000201,valid,3,lily valley
 id_000233,test,NA,NA
-id_000200,train,3,daffodil
-id_001055,train,14,corcus
-id_000434,train,6,fritillary
-id_001257,valid,16,tulip
-id_000045,valid,1,buttercup
-id_000695,valid,9,sunflower
-id_001205,train,16,tulip
-id_001092,valid,14,corcus
-id_000332,train,5,dandelion
-id_000100,train,2,colts foot
-id_001305,train,17,cowslip
-id_000437,train,6,fritillary
-id_000082,train,2,colts foot
-id_001061,train,14,corcus
-id_000520,train,7,iris
+id_000200,train,3,lily valley
+id_001055,train,14,cowslip
+id_000434,train,6,iris
+id_001257,valid,16,windflower
+id_000045,valid,1,daffodil
+id_000695,valid,9,fritillary
+id_001205,train,16,windflower
+id_001092,valid,14,cowslip
+id_000332,train,5,crocus
+id_000100,train,2,snowdrop
+id_001305,train,17,pansy
+id_000437,train,6,iris
+id_000082,train,2,snowdrop
+id_001061,train,14,cowslip
+id_000520,train,7,tigerlily
